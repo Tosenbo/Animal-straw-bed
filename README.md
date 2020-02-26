@@ -2,6 +2,7 @@
 Rimworld　Mod　Animal straw bed
 
 プルリクエストを送った場合は以下にのURLに連絡をしてください。
+
 If you have sent a pull request, please contact the following URL.
 
 Steam
