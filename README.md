@@ -1,5 +1,5 @@
 # Animal-straw-bed
-Rimworld　Mod　Animal straw bed
+Rimworld Mod Animal straw bed
 
 プルリクエストを送った場合は以下にのURLに連絡をしてください。
 
