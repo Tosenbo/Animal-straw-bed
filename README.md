@@ -6,7 +6,7 @@ Rimworld　Mod　Animal straw bed
 If you have sent a pull request, please contact the following URL.
 
 Steam
-https://steamcommunity.com/profiles/76561198309611351
+ → https://steamcommunity.com/profiles/76561198309611351
 
 
 
